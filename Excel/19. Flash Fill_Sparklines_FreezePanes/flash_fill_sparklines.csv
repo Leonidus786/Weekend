@@ -10,14 +10,14 @@ Product Code,First Four Digits,,,,Ctrl  + E,,,,,Product Code,Last Three Digits
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,Product Code,Middle Three Digits
-Days,First Alphabet,,,,,,,,,1000-165-B100,165
-Monday,M,,,,,,,,,1001-540-C101,540
-Tuesday,T,,,,,,,,,1002-394-M102,394
-Wednesday,W,,,,,,,,,1003-307-Q103,307
-Thursday,T,,,,,,,,,1004-848-S104,848
-Friday,F,,,,,,,,,1005-155-S105,155
-Saturday,S,,,,,,,,,1006-552-T106,552
-Sunday,S,,,,,,,,,1007-634-O107,634
+Days,First Alphabet,,,,,,,,,1000-165-B100,
+Monday,M,,,,,,,,,1001-540-C101,
+Tuesday,T,,,,,,,,,1002-394-M102,
+Wednesday,W,,,,,,,,,1003-307-Q103,
+Thursday,,,,,,,,,,1004-848-S104,
+Friday,,,,,,,,,,1005-155-S105,
+Saturday,,,,,,,,,,1006-552-T106,
+Sunday,,,,,,,,,,1007-634-O107,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 Monday,,,,,Monday,,,,,,
@@ -32,8 +32,8 @@ Sunday,,,,,Sunday,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 First,Second,First-Second,First-Second,,,,,,,,
-John,Mary,John-Mary,John-Mary,,,,,,,,
-Joseph,Rita,Joseph-Rita,Joseph-Rita,,,,,,,,
-Mary,Neena,Mary-Neena,Mary-Neena,,,,,,,,
-Jay,Kumar,Jay-Kumar,Jay-Kumar,,,,,,,,
-Robert,Ronny,Robert-Ronny,Robert-Ronny,,,,,,,,
+John,Mary,John Mary,,,,,,,,,
+Joseph,Rita,Joseph Rita,,,,,,,,,
+Mary,Neena,Mary Neena,,,,,,,,,
+Jay,Kumar,Jay Kumar,,,,,,,,,
+Robert,Ronny,Robert Ronny,,,,,,,,,

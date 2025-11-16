@@ -1,0 +1,154 @@
+Question) What is a Database?
+
+A database is an organized collection of data that is stored and accessed electronically. 
+Think of it as a digital filing system where information is stored in a structured way,
+making it easy to retrieve, manage, and update.
+
+1) Structured Storage:
+Data is stored in a specific format, often in tables with rows and columns, making it easy to query and analyze.
+
+2) Consistency: The data stored is consistent, meaning that the same type of data is stored in the same way across the database.
+
+3) Integrity: Data integrity ensures that the data is accurate and reliable.
+
+4) Scalability: Databases can grow in size, handling more data without performance issues.
+
+
+
+--------------------------------------------------------------------------------------------
+What is a database-- data base is a collection of data and holds the data in the form of tables.
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+
+What is a table --- holds the data in form of rows and columns.
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+
+It is similar to excel spreadsheet.
+-----------------------------------
+-----------------------------------
+When a excel spreadsheet holds the data in the same way why do we require this database?
+
+Problem with excel spreadsheet is it what if let's say 1000s of spreadsheets which hold more than 100000s of data
+it become very tidious and cumbersome and totally unmanageable to give insights to this huge data. This is why the better
+ way is to have a database and it will provide you n number of other functionalities also.
+
+-------------
+
+The database provides us the capability to access and manipulate this data.
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+
+Because storing the data is not the only thing we should be able to interact with this data 
+we should be able to retrieve the data we should be able to update or modify the data 
+whatever we want we should be able to and these are the one of the capabalities which our database will provide us.
+
+
+
+
+
+2 types of databases
+----------------------
+----------------------
+
+1. Relational Database - A relational database is the one in which we store the data 
+in the form of   rows & columns and also the tables have relation between them.
+For ex we might have employee id and departments table and each employee can have a department id 
+which relate them to that employee table which means two tables will have some relation on them.
+that's why we called it a relational database.
+
+MySQL
+SQL Server
+PostgreSQL
+
+SQLite
+MariaDB
+
+2. NOSQL Database -- is the one where we have a Key value, Document, Graph  
+here the data is not stored in the form of rows and columns and also two tables do not have any relation in them
+
+Hbase
+Mongodb
+Cassandra
+------------------------
+
+--------
+
+
+
+why My sql
+
+it is something which is used in lot of places. it is in very high demand that is why we are going to learn this 
+
+what if anyone ask to work on sql server or postgreSQL I would say you would not have to really worry the sql staements 
+learned with this class should work on other databases like sql server,  with minor changes.
+
+------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+SQL ---> SQL stands for structure query language -
+Because this language is used to work with structured data that is data in the form of rows and columns.
+
+SQL is a language through which we are interacting with the databases.
+
+
+
+For ex --- we have a mysql data and someone says write a query to insert the data.
+or to update the record or to delete the record from their MySQL database  
+
+So MySQL is a database and SQL is a way to interact with this database. You can say to communicate with the database.
+
+
+---------------------------------------------------------------------------------------
+
+Question) What is a Database Management System (DBMS)?
+
+A Database Management System (DBMS) is software that allows users to create, manage, and interact with databases. 
+It acts as an intermediary between the user and the database, enabling users to easily retrieve, insert, update, and delete data while ensuring that the data is secure and consistent.
+
+---------------------------------------------------------------------------------------
+
+Question) What is Relational Database Management System (DBMS)?
+
+RDBMS stands for Relational Database Management System. It is a type of database management system (DBMS) that stores data in a structured format, 
+using rows and columns, which are organized into tables. The key feature of an RDBMS is that it uses relationships (or links) between tables to manage and query data efficiently.
+
+Here are some key points about RDBMS:
+
+a) Tables: Data is stored in tables, where each table consists of rows (records) and columns (attributes).
+
+b) Primary Key: Each table typically has a primary key, a unique identifier for each row in the table.
+
+c) Foreign Key: Relationships between tables are established using foreign keys, which are fields in one table that refer to the primary key in another table.
+SQL (Structured Query Language): RDBMS systems use SQL for querying, updating, and managing the data.
+
+d) Normalization: RDBMSs often involve the normalization process, which organizes data to minimize redundancy and dependency.
+Examples of popular RDBMSs include MySQL, PostgreSQL, Microsoft SQL Server, and Oracle Database.
+
+-----------------------------------------------------------------------------------
+
+Question) What is SQL ?
+
+SQL (Structured Query Language) is a standardized programming language used to manage and manipulate relational databases. It is the primary language used for querying, inserting, updating, and deleting data in relational databases, as well as for creating and modifying the database structure itself.
+
+Here are the key components of SQL:
+
+1) Data Query Language (DQL): Used to query data from the database. 
+The most common command is SELECT.
+
+2) Data Manipulation Language (DML): Used to insert, update, and delete data.
+
+3) Data Definition Language (DDL): Used to define or alter the structure of the database, such as creating, altering, or dropping tables.
+
+4) Data Control Language (DCL): Used to control access to the data, like granting and revoking permissions.
+
+5) Transaction Control Language (TCL): Used to manage transactions in the database, ensuring data integrity.
+
+COMMIT; (saves all changes made in the current transaction)
+ROLLBACK; (undoes all changes made in the current transaction)
+
+
